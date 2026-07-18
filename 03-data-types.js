@@ -13,4 +13,5 @@ console.log(age + years);
 let userAge = "30";
 console.log(Number(userAge) + 5);
 
-console.log(typeof userName);
+console.log(typeof userAge);       // string
+console.log(typeof Number(userAge)); // number
