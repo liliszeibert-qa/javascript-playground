@@ -19,6 +19,7 @@ It contains small JavaScript examples created while learning the language fundam
 
 ## Project Structure
 
+```text
 01-hello.js
 02-variables.js
 03-data-types.js
@@ -29,6 +30,7 @@ It contains small JavaScript examples created while learning the language fundam
 08-objects.js
 09-loops.js
 10-login-validator.js
+```
 
 ## Planned Improvements
 
