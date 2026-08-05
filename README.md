@@ -17,7 +17,20 @@ It contains small JavaScript examples created while learning the language fundam
 - Write clean and readable code
 - Build a strong foundation for test automation
 
+## Project Structure
+
+01-hello.js
+02-variables.js
+03-data-types.js
+04-operators.js
+05-if-else.js
+06-functions.js
+07-arrays.js
+08-objects.js
+09-loops.js
+10-login-validator.js
+
 ## Planned Improvements
 
-- Add examples for functions, arrays, objects and `async/await`
+- Add examples for functions, arrays, objects
 - Create a simple console-based login validator as a final practice project
