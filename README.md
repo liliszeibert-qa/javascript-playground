@@ -11,12 +11,6 @@ It contains small JavaScript examples created while learning the language fundam
 - Operators
 - Conditional statements (`if / else`)
 
-## Goals
-
-- Learn JavaScript fundamentals
-- Write clean and readable code
-- Build a strong foundation for test automation
-
 ## Project Structure
 
 ```text
@@ -29,10 +23,14 @@ It contains small JavaScript examples created while learning the language fundam
 07-arrays.js
 08-objects.js
 09-loops.js
-10-login-validator.js
 ```
+
+## Goals
+
+- Learn JavaScript fundamentals
+- Write clean and readable code
+- Build a strong foundation for test automation
 
 ## Planned Improvements
 
-- Add examples for functions, arrays, objects
 - Create a simple console-based login validator as a final practice project
